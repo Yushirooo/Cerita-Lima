@@ -1,6 +1,6 @@
 # cerita_lima
 
-A new Flutter project.
+Link Splash Screen (https://drive.google.com/file/d/1SH5abCqj5rLHl0pq762fWzz-1Rgr1gMx/view?usp=sharing)
 
 ## Getting Started
 
